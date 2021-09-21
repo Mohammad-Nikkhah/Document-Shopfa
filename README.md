@@ -1,6 +1,5 @@
 # Document-Shopfa
 
-Welcome to the Document-Shopfa
 
 **Header**
 ------------------------------
