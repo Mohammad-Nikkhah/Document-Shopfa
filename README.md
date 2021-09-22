@@ -86,3 +86,15 @@
 `$paging` صفحه بندی 
 <br>
 `$page_bottom_text` متن پایین لیست محصولات
+
+
+**content-list.tpl**
+
+
+`$value.date` زمان انتشار مقاله
+<br>
+`$value.is_mobile` حالت موبایل
+<br>
+`$value.user.user_image` تصویر کاربر
+<br>
+`$value.user.user_nickname` نام مستعار کاربر 
