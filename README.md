@@ -1,12 +1,12 @@
 # Document-Shopfa
-[shopfa.com](www.shopfa.com)
+[shopfa.com](www.shopfa.com){target="_blank"}
 
 **Header** <br>
 `$header_logo` متغیر لوگو هدر <br>
-`$menu_1`  منو معمولا در بالای هدر استفاده میشود. <br>
+`$menu_1` منو یک <br>
 ` $user_menu`  منو کاربر شامل ورود و خروج <br>
 ‍‍`$menu_2` منو اصلی هدر <br>
-`$search_box‍‍` ایجاد بخش سرچ باکس <br>
+`$search_box‍‍` ایجاد بخش جست و جو <br>
 
 **Footer** <br>
 ` $menu_4 ` منو اصلی فوتر <br>
