@@ -103,5 +103,8 @@
 <br>
 `$value.title` عنوان مقاله 
 
-** content.tpl **
+**content.tpl**
 <br>
+`$title` عنوان مقاله
+<br>
+`$subtitle` عنوان فرعی مقاله
