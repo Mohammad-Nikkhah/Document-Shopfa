@@ -353,3 +353,18 @@
 `$value.link` لینک برند ها 
 <br>
 `value.image` تصویر برند
+
+
+**comment.tpl**
+<br>
+`$avatar` تصویر کاربر 
+<br>
+`$author` نویسنده پیام
+<br>
+`$like` لایک  کامنت
+<br>
+`$dislike` دیس لایک کامنت
+<br>
+`$date` تاریخ انتشار کامنت
+<br>
+`$text`متن کامنت
