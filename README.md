@@ -84,3 +84,5 @@
 `$value.enable_compare` مقایسه کنید 
 <br>
 `$paging` صفحه بندی 
+<br>
+`$page_bottom_text` متن پایین لیست محصولات
