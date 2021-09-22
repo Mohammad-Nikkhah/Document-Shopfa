@@ -119,3 +119,5 @@
 `$lang.empty_basket` متن سبد خرید شما خالی است
 <br>
 ‍‍`$value.count` تعداد محصولات در سبد خرید
+<br>
+`$lang.checkout` متن دکمه سبد خرید
