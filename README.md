@@ -16,3 +16,7 @@
   ‍`$license` متن لایسنس
 <br>
 `$menu_headline` عنوان منو اصلی فوتر
+<br>
+`$newsletter_title` متن تایم کاری کسب و کار
+<br>
+`$social_title` عنوان لوگو های شبکه اجتماعی
