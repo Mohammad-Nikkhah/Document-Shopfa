@@ -64,4 +64,4 @@
 <br>
 `$pages` لیست بخش ها در صفحه محصول
 <br>
-`attributes_list` لیست مشخصات محصول 
+`$attributes_list` لیست مشخصات محصول 
