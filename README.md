@@ -33,9 +33,9 @@
 <br>
 `$footer_content` توضیحات کسب و کار در بخش فوتر
 <br>
-`@footer-tel` شماره تلفن فروشگاه 
+`$footer-tel` شماره تلفن فروشگاه 
 <br>
-`@footer_mai` ایمیل فروشگاه 
+`$footer_mai` ایمیل فروشگاه 
 
 **Product** <br>
 `$old_price` قیمت قبل از تخفیف
