@@ -76,3 +76,4 @@
 
 **Product-list.tpl**
 
+`$value.special` فروش ویژه محصول
