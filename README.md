@@ -82,3 +82,5 @@
 `$not_found` صفحه مورد نظر پیدا نشد
 <br>
 `$value.enable_compare` مقایسه کنید 
+<br>
+`$paging` صفحه بندی 
