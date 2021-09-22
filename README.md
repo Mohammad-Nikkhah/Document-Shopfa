@@ -20,3 +20,5 @@
 `$newsletter_title` متن تایم کاری کسب و کار
 <br>
 `$social_title` عنوان لوگو های شبکه اجتماعی
+<br>
+`$social_icons` لوگو های شبکه اجتماعی
