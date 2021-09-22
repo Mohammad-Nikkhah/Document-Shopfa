@@ -1,12 +1,12 @@
 # Document-Shopfa
-**Header** <br>
+**Header.tpl** <br>
 `$header_logo` متغیر لوگو هدر <br>
 `$menu_1` منو یک <br>
 ` $user_menu`  منو کاربر شامل ورود و خروج <br>
 ‍‍`$menu_2` منو اصلی هدر <br>
 `$search_box‍‍` ایجاد بخش جست و جو <br>
 
-**Footer** <br>
+**Footer.tpl** <br>
 ` $menu_4 ` منو اصلی فوتر <br>
  `$namad_1` and `$namad_2` and `$namad_3` سه مورد نماد اعتماد کسب وکار
 <br>
@@ -37,7 +37,7 @@
 <br>
 `$footer_mai` ایمیل فروشگاه 
 
-**Product** <br>
+**Product.tpl** <br>
 `$old_price` قیمت قبل از تخفیف
 <br>
 `$off_percent` درصد تخفیف
