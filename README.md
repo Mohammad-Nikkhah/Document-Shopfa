@@ -102,3 +102,6 @@
 `$value.post_image` تصویر مقاله 
 <br>
 `$value.title` عنوان مقاله 
+
+** content.tpl **
+<br>
