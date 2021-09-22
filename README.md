@@ -72,3 +72,7 @@
 <br>
 `$weakness`‍‍ لیست نقاط ضعف محصول
 <br>
+
+
+**Product-list.tpl**
+
