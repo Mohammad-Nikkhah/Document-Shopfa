@@ -80,3 +80,5 @@
 `$value.special` فروش ویژه محصول
 <br>
 `$not_found` صفحه مورد نظر پیدا نشد
+<br>
+`$value.enable_compare` مقایسه کنید 
