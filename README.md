@@ -13,5 +13,6 @@
  `$namad_1` and `$namad_2` and `$namad_3` سه مورد نماد اعتماد کسب وکار
 <br>
  `$copyright`متن کپی رایت<br>
-  ‍‍`$license` متن لایسنس
-
+  ‍`$license` متن لایسنس
+<br>
+`$menu_headline` عنوان منو اصلی فوتر
