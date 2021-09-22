@@ -379,4 +379,8 @@
 
 **menu**
 
-`$menu_3` منو
+`$menu_3` منو3
+
+**user.tpl**
+<br>
+`$user_nicknam` نام مستعار کاربر<br>
