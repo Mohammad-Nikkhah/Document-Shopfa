@@ -40,7 +40,7 @@
 **Product** <br>
 `$old_price` قیمت قبل از تخفیف
 <br>
-`&off_percent` درصد تخفیف
+`$off_percent` درصد تخفیف
 <br>
 `$price` قیمت محصول 
 <br>
