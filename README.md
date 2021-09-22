@@ -345,3 +345,11 @@
 <br>
 `bootstrap_ver`  نسخه Bootstrap
 <br>
+
+**brands.tpl**
+<br>
+`$value.title` عنوان برند ها 
+<br>
+`$value.link` لینک برند ها 
+<br>
+`value.image` تصویر برند
