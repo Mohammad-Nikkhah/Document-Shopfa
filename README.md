@@ -126,4 +126,10 @@
 <br>
 `$basket_link` لینک صفحه تکمیل پرداخت
 
-**search.tpl**
+ **search.tpl**
+ 
+ `$placeholder` متن داخل سرج باکس 
+ <br>
+ `$search_link`  مسیر جستوجو
+ ‍‍‍‍‍‍<br>
+ ``
