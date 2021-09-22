@@ -98,3 +98,7 @@
 `$value.user.user_image` تصویر کاربر
 <br>
 `$value.user.user_nickname` نام مستعار کاربر 
+<br>
+`$value.post_image` تصویر مقاله 
+<br>
+`$value.title` عنوان مقاله 
