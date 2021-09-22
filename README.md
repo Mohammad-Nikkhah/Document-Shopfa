@@ -1,5 +1,5 @@
 # Document-Shopfa
-[shopfa.com](www.shopfa.com){target="_blank"}
+[shopfa.com](www.shopfa.com)
 
 **Header** <br>
 `$header_logo` متغیر لوگو هدر <br>
