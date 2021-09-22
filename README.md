@@ -125,3 +125,5 @@
 `$lang.delete` متن دکمه حذف در سبد خرید 
 <br>
 `$basket_link` لینک صفحه تکمیل پرداخت
+
+**search.tpl**
