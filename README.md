@@ -17,7 +17,7 @@
 <br>
 `$menu_headline` عنوان منو اصلی فوتر
 <br>
-`$newsletter_title` متن تایم کاری کسب و کار
+`$newsletter_title` عنوان ساعت کاری کسب و کار
 <br>
 `$social_title` عنوان لوگو های شبکه اجتماعی
 <br>
