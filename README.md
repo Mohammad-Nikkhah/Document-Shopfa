@@ -1,5 +1,4 @@
 # Document-Shopfa
-[shopfa.com](https://www.shopfa.com/ "title" target="_blank")
 **Header** <br>
 `$header_logo` متغیر لوگو هدر <br>
 `$menu_1` منو یک <br>
