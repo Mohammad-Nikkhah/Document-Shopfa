@@ -36,3 +36,8 @@
 `@footer-tel` شماره تلفن فروشگاه 
 <br>
 `@footer_mai` ایمیل فروشگاه 
+
+**Product** <br>
+`$old_price` قیمت قبل از تخفیف
+<br>
+`&off_percent` درصد تخفیف
