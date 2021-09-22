@@ -35,4 +35,6 @@
 <br>
 `$footer_content` توضیحات کسب و کار در بخش فوتر
 <br>
-`@footer-tel` شماره تلفن وب سایت 
+`@footer-tel` شماره تلفن فروشگاه 
+<br>
+`@footer_mai` ایمیل فروشگاه 
