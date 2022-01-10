@@ -95,6 +95,10 @@
 <br>
 `$value.is_mobile` حالت موبایل
 <br>
+`$date_month`  ماه انتشار
+‍‍ <br>
+   `$date_day` روز انتشار
+‍‍‍‍‍‍‍‍ <br>
 `$value.user.user_image` تصویر کاربر
 <br>
 `$value.user.user_nickname` نام مستعار کاربر 
