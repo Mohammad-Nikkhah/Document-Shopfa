@@ -1,7 +1,7 @@
 <div dir="rtl">
 <img src="https://shopfa.com/src/themes/theme_102/img/logo.svg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
   
-:pushpin:	 **نکات مهم طراحی هر قالب** 	 
+   :pushpin:	 **نکات مهم طراحی هر قالب** 	 
   
    ⚠️  در نوشتن کد ها تا حد امکان از کد های کمتر استفاده شود.
   <br>
